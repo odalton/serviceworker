@@ -7,3 +7,4 @@ if (navigator.serviceWorker) {
     } else {
         log("No Service Worker active...");
     }
+}
